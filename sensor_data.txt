@@ -1,0 +1,5 @@
+Nhiệt độ: 26.5°C - Độ ẩm: 60%
+dfvdfbvfTemp: 28.5°C
+Humidity: 70%
+Pressure: 1013 hPa
+chan
