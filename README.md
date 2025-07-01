@@ -2,6 +2,24 @@
 🎯 Mục tiêu
 Phần mềm mô phỏng quá trình truyền dữ liệu cảm biến (sensor_data.txt) từ thiết bị IoT lên nền tảng Cloud AWS S3 giả lập thông qua kênh socket TCP, tích hợp các lớp bảo mật hiện đại gồm:
 
+
+
+
+GIAO DIỆN CỦA ỨNG DỤNG VÀ DỮ LIỆU KHI ĐƯỢC GIẢI MÃ:
+
+![Giao diện ứng dụng](https://github.com/nhucccc/BTLN/blob/main/up1.png)
+
+
+
+
+
+![Dữ liệu ảnh khi được giải mã](https://github.com/nhucccc/BTLN/blob/main/up2.png)
+
+
+
+
+
+
 Mã hóa AES-GCM
 
 Ký số RSA/SHA-512
@@ -103,9 +121,3 @@ Giám sát hiệu suất truyền tải qua log thời gian.
 Mô phỏng mô hình upload/download file nhạy cảm trong các dự án IoT sử dụng cloud.
 
 
-GIAO DIỆN CỦA ỨNG DỤNG VÀ DỮ LIỆU KHI ĐƯỢC GIẢI MÃ:
-
-![Giao diện ứng dụng](https://github.com/nhucccc/BTLN/blob/main/up1.png)
-
-
-![Dữ liệu ảnh khi được giải mã](https://github.com/nhucccc/BTLN/blob/main/up2.png)
