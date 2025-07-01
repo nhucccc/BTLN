@@ -105,6 +105,7 @@ Mô phỏng mô hình upload/download file nhạy cảm trong các dự án IoT 
 
 GIAO DIỆN CỦA ỨNG DỤNG VÀ DỮ LIỆU KHI ĐƯỢC GIẢI MÃ:
 
+![Giao diện ứng dụng](https://github.com/nhucccc/BTLN/blob/main/up1.png)
 
 
-
+![Dữ liệu ảnh khi được giải mã](https://github.com/nhucccc/BTLN/blob/main/up2.png)
